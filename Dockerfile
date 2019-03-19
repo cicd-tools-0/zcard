@@ -1,3 +1,3 @@
 
 from ubuntu
-run "apt-get install tree"
+RUN "apt-get install tree"
